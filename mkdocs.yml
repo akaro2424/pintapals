@@ -1,0 +1,5 @@
+site_name: Pinta Pals
+nav:
+  - Home: index.md
+  - Test: index_test.md
+theme: readthedocs
