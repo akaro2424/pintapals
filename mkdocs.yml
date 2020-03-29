@@ -1,6 +1,6 @@
 site_name: Pinta Pals
 nav:
-  - Home: index.md
+  - Home: home.md
   - General Overview: overview.md
   - Getting Started: start.md
   - Quick Start Tutorial: tutorial.md
